@@ -1,0 +1,26 @@
+{
+  "name": "coding-exercise-myob-frontend",
+  "version": "0.1.0",
+  "author": "Charles Benedito",
+  "private": true,
+  "description": "Dashboard for MYOB coding exercise with ES6/ES7 features",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/charlessousa/coding-exercise-myob"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "route-parser": "0.0.5"
+  }
+}
