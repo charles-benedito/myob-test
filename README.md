@@ -1,4 +1,4 @@
-# MMYOE - Mind Your Own Exercise 
+# MYOE - Mind Your Own Exercise 
 
 My project used as step to be contracted by MYOB.
 
